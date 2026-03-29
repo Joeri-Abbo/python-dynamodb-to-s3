@@ -1,2 +1,7 @@
 .idea
 config.yaml
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.venv/
